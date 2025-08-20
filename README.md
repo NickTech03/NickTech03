@@ -23,9 +23,7 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 
 ## 📂 Projects & Labs
 Here are some of the things I’m working on:  
-- 📝 [IT Fundamentals Labs](#) – Notes, exercises, and screenshots from labs  
-- 🌐 [Networking Basics](#) – Packet Tracer labs and configurations  
-- 🔒 [Cybersecurity Basics](#) – Notes on the CIA triad, integrity, and security best practices  
+- 📝 [IT Fundamentals Labs](#) – Notes, exercises, and screenshots from labs
 
 ---
 
