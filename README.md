@@ -9,7 +9,7 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 - 🌱 Currently learning **IT Fundamentals** via CourseCareers
 - 🖥️ Exploring **, Hardware, Networking, Cybersecurity, and Operating Systems**  
 - 🛠️ Hands-on practice through labs (Virtual Machines, Ticketing Systems, Active Directory, etc)  
-- 🎯 Goal: Build a strong IT foundation and pivot into an IT profession or Cybersecurity
+- 🎯 Goal: Build a strong IT foundation and grow into an **IT profession or Cybersecurity**
 
 ---
 
