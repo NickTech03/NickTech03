@@ -15,8 +15,8 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 
 ## 🔧 Tools & Technologies
 - Operating Systems: Windows, Linux  
-- Virtualization: VirtualBox, VMware  
-- Networking: Cisco Packet Tracer  
+- Virtualization: Azure
+- Networking: 
 - Documentation: Markdown, GitHub, Notion/OneNote  
 
 ---
