@@ -1,7 +1,7 @@
 # Hi there, I'm Nicholas 👋  
 
 🎓 **Beginner IT Student | Building my tech foundations**  
-Currently enrolled in an *Information Technology Fundamentals* course. I’m learning the core concepts of hardware, networking, operating systems, and cybersecurity basics.  
+Currently enrolled in an *Information Technology Fundamentals* course via CourseCareers. I’m learning the core concepts of hardware, networking, operating systems, and cybersecurity basics.  
 
 ---
 
