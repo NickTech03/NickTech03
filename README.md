@@ -42,7 +42,6 @@ Here are some of the things I’m working on:
 ## 📫 Connect with Me
 
 [<img align="left" alt="nicholas-khan-800111246 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://www.linkedin.com/in/nicholas-khan-800111246/
  
 ---
