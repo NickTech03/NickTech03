@@ -16,7 +16,7 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 ## 🔧 Tools & Technologies
 - Operating Systems: Windows & Linux  
 - Virtualization: Azure
-- Documentation: Awsome Screen Recorder & Screenshot & GitHub
+- Documentation: Awsome Screen Recorder/Screenshot & GitHub
 
 ---
 
