@@ -40,10 +40,8 @@ Here are some of the things I’m working on:
 ---
 
 ## 📫 Connect with Me
+- 💼 [LinkedIn]: www.linkedin.com/in/nicholas-khan-800111246
 
-[<img align="left" alt="nicholas-khan-800111246 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ---
-[linkedin]: https://www.linkedin.com/in/nicholas-khan-800111246/
- 
 
 ⭐️ *Thanks for visiting my profile! I’m excited to share my IT journey as I learn and grow.*
