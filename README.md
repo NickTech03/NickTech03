@@ -40,8 +40,7 @@ Here are some of the things I’m working on:
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/nicholas-khan-800111246/
-- 🌍 Portfolio Website: *(coming soon!)*  
-
+ 
 ---
 
 ⭐️ *Thanks for visiting my profile! I’m excited to share my IT journey as I learn and grow.*
