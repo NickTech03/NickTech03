@@ -9,7 +9,7 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 - 🌱 Currently learning **IT Fundamentals** via CourseCareers
 - 🖥️ Exploring **, Hardware, Networking, Cybersecurity, and Operating Systems**  
 - 🛠️ Hands-on practice through labs (Virtual Machines, Ticketing Systems, Active Directory, etc)  
-- 🎯 Goal: Build a strong IT foundation and grow into an **IT profession or Cybersecurity**
+- 🎯 Goal: Build a strong IT foundation and grow into an **IT Support/HelpDesk or Cybersecurity** job
 
 ---
 
@@ -29,16 +29,16 @@ Here are some of the things I’m working on:
 
 ---
 
-## 🌟 Goals for 2025
-- Complete **CompTIA ITF+ and A+** certifications  
+## 🌟 Goals for 2025 & 2026
+- Complete **CompTia Network+, Security+ & Azure-900** certifications  
 - Document every lab and project on GitHub  
 - Start contributing to beginner-friendly open-source IT or security projects  
-- Land my first role in **IT Support or Help Desk**  
+- Land my first role in **IT Support, Help Desk or Cybersecurity**  
 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](#) https://www.linkedin.com/in/nicholas-khan-800111246/
 - 🌍 [Portfolio Website](#) *(coming soon!)*  
 
 ---
