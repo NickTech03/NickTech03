@@ -30,7 +30,7 @@ Here are some of the things I’m working on:
 ---
 
 ## 🌟 Goals for 2025 & 2026
-- Complete **CompTia Network+, Security+ & Azure-900** certifications  
+- Complete **CourseCareers - IT Course, CompTia Network+, Security+ & Azure-900** certifications  
 - Document every lab and project on GitHub  
 - Start contributing to beginner-friendly open-source IT or security projects  
 - Land my first role in **IT Support, Help Desk or Cybersecurity**  
