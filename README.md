@@ -14,16 +14,19 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 ---
 
 ## 🔧 Tools & Technologies
-- Operating Systems: Windows, Linux  
+- Operating Systems: Windows & Linux  
 - Virtualization: Azure
-- Networking: 
-- Documentation: Markdown, GitHub, Notion/OneNote  
+- Documentation: Awsome Screen Recorder & Screenshot & GitHub
 
 ---
 
 ## 📂 Projects & Labs
 Here are some of the things I’m working on:  
 - 📝 [CourseCareers - IT Fundamentals Labs](#) – Notes, exercises, and screenshots from labs
+
+---
+
+## 📄 Certifications
 
 ---
 
