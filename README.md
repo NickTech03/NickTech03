@@ -23,7 +23,7 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 
 ## 📂 Projects & Labs
 Here are some of the things I’m working on:  
-- 📝 [IT Fundamentals Labs](#) – Notes, exercises, and screenshots from labs
+- 📝 [CourseCareers - IT Fundamentals Labs](#) – Notes, exercises, and screenshots from labs
 
 ---
 
