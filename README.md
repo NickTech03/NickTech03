@@ -22,7 +22,7 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 
 ## 📂 Projects & Labs
 Here are some of the things I’m working on:  
-- 📝 [CourseCareers - IT Fundamentals Labs](#) – Notes, exercises, and screenshots from labs
+- 📝 [Ticketing Systems - osTicket](https://github.com/NickTech03/Ticketing-Systems-osTicket-)
 
 ---
 
