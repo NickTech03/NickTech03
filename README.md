@@ -45,6 +45,5 @@ Here are some of the things I’m working on:
 
 [linkedin]: https://www.linkedin.com/in/nicholas-khan-800111246/
  
----
 
 ⭐️ *Thanks for visiting my profile! I’m excited to share my IT journey as I learn and grow.*
