@@ -38,8 +38,8 @@ Here are some of the things I’m working on:
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](#) https://www.linkedin.com/in/nicholas-khan-800111246/
-- 🌍 [Portfolio Website](#) *(coming soon!)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/nicholas-khan-800111246/
+- 🌍 Portfolio Website: *(coming soon!)*  
 
 ---
 
