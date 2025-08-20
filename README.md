@@ -6,10 +6,10 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **IT Fundamentals** and preparing for **CompTIA ITF+ / A+**  
-- 🖥️ Exploring **Networking, Cybersecurity, and Operating Systems**  
-- 🛠️ Hands-on practice through labs (virtual machines, simulations, troubleshooting)  
-- 🎯 Goal: Build a strong IT foundation and grow into **Cybersecurity**  
+- 🌱 Currently learning **IT Fundamentals** via CourseCareers
+- 🖥️ Exploring **, Hardware, Networking, Cybersecurity, and Operating Systems**  
+- 🛠️ Hands-on practice through labs (Virtual Machines, Ticketing Systems, Active Directory, etc)  
+- 🎯 Goal: Build a strong IT foundation and pivot into an IT profession or Cybersecurity
 
 ---
 
