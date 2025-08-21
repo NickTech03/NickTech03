@@ -37,4 +37,4 @@ Here are some of the things I’m working on:
 
 ---
 
-⭐️ *Thanks for visiting my profile! I’m excited to share my IT journey as I learn and grow.*
+⭐️ *Thanks for visiting my profile! I’m excited to share my journey as I learn and grow.*
