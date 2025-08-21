@@ -8,15 +8,8 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 ## 🚀 About Me
 - 🌱 Currently learning **IT Fundamentals** via CourseCareers
 - 🖥️ Exploring **, Hardware, Networking, Cybersecurity, and Operating Systems**  
-- 🛠️ Hands-on practice through labs (Virtual Machines, Ticketing Systems, Active Directory, etc)  
-- 🎯 Goal: Build a strong IT foundation and grow into an **IT Support/HelpDesk or Cybersecurity** job
-
----
-
-## 🔧 Tools & Technologies
-- Operating Systems: Windows & Linux  
-- Virtualization: Azure
-- Documentation: Awsome Screen Recorder/Screenshot & GitHub
+- 🛠️ Hands-on practice through labs (Virtual Machines, Ticketing Systems, Active Directory, VPNs, DNS, Network File Sharing & etc)  
+- 🎯 Goal: Build a strong IT foundation and grow into an **IT profession or Cybersecurity** job
 
 ---
 
@@ -35,7 +28,7 @@ Here are some of the things I’m working on:
 - Complete **CourseCareers - IT Course, CompTia Network+, Security+ & Azure-900** certifications  
 - Document every lab and project on GitHub  
 - Start contributing to beginner-friendly open-source IT or security projects  
-- Land my first role in **IT Support, Help Desk or Cybersecurity**  
+- Land my first role in a **IT profession or Cybersecurity**  
 
 ---
 
