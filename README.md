@@ -20,11 +20,6 @@ Here are some of the things I’m working on:
 
 ---
 
-## 📄 Certifications
-
----
-
-
 ## 📫 Connect with Me
 - 💼 [LinkedIn]: www.linkedin.com/in/nicholas-khan-800111246
 
