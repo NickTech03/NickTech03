@@ -12,7 +12,7 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 
 ---
 
-## 📂 Projetcs & Labs
+## 📂 Projects & Labs
 
 
 ---
