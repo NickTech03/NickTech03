@@ -5,12 +5,6 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **IT Fundamentals** via CourseCareers
-- 🖥️ Exploring **, Hardware, Networking, Cybersecurity, and Operating Systems**  
-- 🛠️ Hands-on practice through labs (Virtual Machines, Ticketing Systems, Active Directory, VPNs, DNS, Network File Sharing & etc)
-
----
 
 ## 📂 Projects & Labs
 
