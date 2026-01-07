@@ -9,12 +9,12 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 ## 📂 Projects & Labs
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/NickTech03/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/NickTech03/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/NickTech03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NickTech03/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NickTech03/azure-network-protocols)
 
 ---
 
