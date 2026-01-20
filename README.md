@@ -6,12 +6,12 @@ Currently enrolled in an *Information Technology Fundamentals* course via Course
 ---
 
 
-## 📂 Projects & Labs
+## 📂 Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: osTicket Lab: Prerequisites, Installation, and Validation](https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation)
-  - [osTicket: Post-Installation Configuration](https://github.com/NickTech03/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NickTech03/ticket-lifecycle)
+  - [osTicket: Prerequisites, Installation, and Validation](https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation)
+  - [osTicket: Post-Install Configuration](https://github.com/NickTech03/post-install-config)
+  - [osTicket: Ticket Lifecycle Workflow (Examples)](https://github.com/NickTech03/ticket-lifecycle)
 
 ---
 
