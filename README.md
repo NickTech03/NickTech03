@@ -66,7 +66,7 @@ Key activities included:
 
 ## 📚 Earlier IT Lab Work
 
-I have also completed and documented earlier Help Desk ticketing exercises using **osTicket**, including installation, configuration, and ticket-workflow practice. These projects represent an earlier stage of my hands-on IT learning.
+I have also worked on introductory Help Desk ticketing labs using **osTicket**, exploring installation, configuration, and support-ticket workflows. These exercises represent an earlier stage of my hands-on IT learning and remain separate from my completed portfolio projects.
 
 ## 📫 Connect with Me
 
